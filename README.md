@@ -79,6 +79,6 @@ I’ll be updating this repository daily with fresh problems from the GeeksforGe
 
 
 🤝 Let's Connect
-📷 Instagram – @framesby.vikash
-💼 LinkedIn – Vikash Joshi
+📷 Instagram – https://www.instagram.com/_vikaashhh/
+💼 LinkedIn – https://www.linkedin.com/in/itaintvi/
 
