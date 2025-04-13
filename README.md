@@ -66,16 +66,6 @@ python SecondLargest.py
 
 Input your numbers when prompted.
 
-
-📂 File Structure
-bash
-Copy
-Edit
-Day-1-SecondLargest/
-│
-├── SecondLargest.py     # Main Python logic
-└── README.md             # Project documentation
-
 📌 Topics Covered
 - Arrays
 - Conditional logic
