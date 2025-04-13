@@ -51,7 +51,7 @@ def getSecondLargest(self, arr):
             second_largest = num
 
     return second_largest if second_largest != float('-inf') else -1
-
+```
 The code includes an interactive CLI that allows users to input space-separated integers and see the second largest number instantly.
 
 🏁 How to Run
